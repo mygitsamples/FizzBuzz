@@ -7,7 +7,7 @@ Node JS
 # npm install
 2. Once dependencies are installed, run below command to start app on localhost
 # npm run start
-3. To run test cases of the project, run below command
+3. To run test cases of the project, run below command and then press a.
 # npm run test
 
 # Project Structure
