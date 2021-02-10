@@ -1,0 +1,45 @@
+.inputForm{
+    line-height: 100px;
+}
+button{
+    margin: auto;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    width: 200px;
+    border-radius: 8px;
+    border: 0px;
+    background-color: #0046be;
+    color:white;
+    font-weight: 500;
+    
+}
+button:disabled{
+    color: gray !important ;
+}
+button:hover{
+    background-color: #00248c;
+}
+
+.txtArray{
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #dddddd;
+    border-radius: 4px;
+    font-size: 18px;
+    background-color: white;
+    background-position: 10px 10px; 
+    padding: 12px 20px;
+    transition: width 0.4s ease-in-out;
+}
+.txtArray:focus {
+    width: 500px;
+  }
+  label{
+    font-size: 20px;
+    padding: 10px;
+  }
+
+  .btnSpan{
+      padding:10px;
+  }

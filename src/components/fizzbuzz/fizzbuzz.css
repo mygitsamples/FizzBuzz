@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin:auto;
+    height: 200px;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #dddd;
+    white-space: pre;
+  }
+  .fizzBuzz{
+      line-height: 2;
+      overflow: auto;
+      height: 400px;
+  }
+  tr:hover {background-color:#f5f5f5;}
