@@ -27,6 +27,7 @@ Node JS
     - Empty Items are returned as Invalid Items.
     - Table has Output displayed for each input and has scrolling enabled.
     - Any special chars are also considered invalid.
+    - Unit Tests added to validate component render and feilds disabled.
     
 
 
